@@ -5,4 +5,4 @@ y2 = 11
 
 d = ((x2-x1)**2+(y2-y1)**2)**0.5
 
-print("distance between two points (x1,x2) & (y1,y2)=",d)
+print("distance between two points (x1,x2) & (y1,ey2)=",d)
